@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="data_collecter" type="data_collecter.py" name="data_collecter" output="screen" cwd="node"/>
+</launch>
