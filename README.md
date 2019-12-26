@@ -1,4 +1,4 @@
-# Self-DrivingCar_nano_degree
+# Self-Driving Car Nanodegree
 
 
 ## Table of Contents
@@ -38,6 +38,3 @@
 #### [9-Programming-Real-Self-Driving-Car](P9-Programming-Real-Self-Driving-Car)
 - **Summary:** Implement full system to control the car starting from perception untill motion planning and control by making nodes on ROS System and connecting it to Udacity Simulator
 - **Keywords:** Python, ROS
-
-
-
