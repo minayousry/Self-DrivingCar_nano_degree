@@ -35,7 +35,7 @@
  - **Summary:** Implement a PID controller for keeping the car on track by appropriately adjusting the steering angle.
  - **Keywords:** C++, PID Controller
  
-#### [9-Programming-Real Self-Driving-Car](P9-Programming-Real Self-Driving-Car)
+#### [9-Programming-Real-Self-Driving-Car](P9-Programming-Real Self-Driving-Car)
 - **Summary:** Implement full system to control the car starting from perception untill motion planning and control by making nodes on ROS System and connecting it to Udacity Simulator
 - **Keywords:** Python, ROS
 
