@@ -6,6 +6,16 @@
 #### [1-Detecting Lane Lines](P1-Finding-LaneLines)
  - **Summary:** Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
  - **Keywords:** Computer Vision
+ <table style="width:50%">
+  <tr>
+    <th>
+      <p align="center">
+           <a href="https://www.youtube.com/watch?v=8CzPSzfsDcY"><img src="./P1-Finding-LaneLines/test_images_output/solidWhiteRigh_output.jpg" alt="Overview" width="60%" height="60%"></a>
+           </a>
+      </p>
+    </th>
+ </tr>
+   </table>
  
  #### [2-Advanced Lane Finding](P2-Advanced-Lane-Finding)
  - **Summary:** Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
