@@ -6,12 +6,11 @@
 #### [1-Detecting Lane Lines](P1-Finding-LaneLines)
  - **Summary:** Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
  - **Keywords:** Computer Vision
- <table style="width:50%">
+ <table>
   <tr>
     <th>
-      <p align="center">
-           <a href="https://www.youtube.com/watch?v=8CzPSzfsDcY"><img src="./P1-Finding-LaneLines/test_images_output/solidWhiteRigh_output.jpg" alt="Overview" width="60%" height="60%"></a>
-           </a>
+      <p>
+           <a href="https://www.youtube.com/watch?v=8CzPSzfsDcY"><img src="./P1-Finding-LaneLines/test_images_output/solidWhiteRigh_output.jpg" alt="Overview"></a>
       </p>
     </th>
  </tr>
@@ -20,18 +19,67 @@
  #### [2-Advanced Lane Finding](P2-Advanced-Lane-Finding)
  - **Summary:** Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
  - **Keywords:** Computer Vision, OpenCV
+  <table>
+  <tr>
+    <th>
+      <p>
+           <a href="https://www.youtube.com/watch?v=s2JrRn4G59U"><img src="./P2-Advanced-Lane-Finding/test_images_output/final_image/test1_output.jpg" alt="Overview"></a>
+      </p>
+    </th>
+ </tr>
+   </table>
  
 #### [3-Traffic Sign Classification](P3-Traffic-Sign-Classifier)
  - **Summary:** Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
  - **Keywords:** Deep Learning, TensorFlow, Computer Vision
+   <table>
+  <tr>
+    <th>
+      <p>
+        <img src="./P3-Traffic-Sign-Classifier/test_images/img1.jpg" alt="Overview">
+      </p>
+    </th>
+     <th>
+      <p>
+        <img src="./P3-Traffic-Sign-Classifier/test_images/img2.jpg" alt="Overview">
+      </p>
+    </th>
+     <th>
+      <p>
+        <img src="./P3-Traffic-Sign-Classifier/test_images/img3.jpg" alt="Overview">
+      </p>
+    </th>
+     <th>
+      <p>
+        <img src="./P3-Traffic-Sign-Classifier/test_images/img4.jpg" alt="Overview">
+      </p>
+    </th>
+     <th>
+      <p>
+        <img src="./P3-Traffic-Sign-Classifier/test_images/img5.jpg" alt="Overview">
+      </p>
+    </th>
+ </tr>
+   </table>
+
  
 #### [4-Behavioral Cloning](P4-Behavioral-Cloning)
  - **Summary:** Built and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and dropout to generalize the network for driving on multiple tracks.
  - **Keywords:** Deep Learning, Keras, Convolutional Neural Networks
+   <table>
+  <tr>
+    <th>
+      <p>
+           <a href="https://www.youtube.com/watch?v=s4xuJqEsnW0"><img src="./P2-Advanced-Lane-Finding/vide.mp4" alt="Overview">              </a>
+      </p>
+    </th>
+ </tr>
+   </table>
 
 #### [5-Extended Kalman Filter](P5-Extended-Kalman-Filter)
  - **Summary:** Implement the extended Kalman filter in C++. Simulated lidar and radar measurements are used to detect a bicycle that travels around your vehicle. Kalman filter, lidar measurements and radar measurements are used to track the bicycle's position and velocity.
  - **Keywords:** C++, Kalman Filter
+ 
 
 #### [6-Kidnapped Vehicle](P6-Kidnapped-Vehicle)
  - **Summary:** Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data. In this project you will implement a 2 dimensional particle filter in C++. Your particle filter will be given a map and some initial localization information (analogous to what a GPS would provide). At each time step your filter will also get observation and control data.
