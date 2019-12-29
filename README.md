@@ -70,7 +70,7 @@
   <tr>
     <th>
       <p>
-           <a href="https://www.youtube.com/watch?v=s4xuJqEsnW0"><img src="./P2-Advanced-Lane-Finding/vide.mp4" alt="Overview">              </a>
+           <a href="https://www.youtube.com/watch?v=s4xuJqEsnW0"><img src="./P4-Behavioral-Cloning/car.jpg" alt="Overview">              </a>
       </p>
     </th>
  </tr>
