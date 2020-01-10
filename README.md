@@ -32,7 +32,7 @@
 #### [3-Traffic Sign Classification](P3-Traffic-Sign-Classifier)
  - **Summary:** Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
  - **Keywords:** Deep Learning, TensorFlow, Computer Vision
-   <table>
+ <table>
   <tr>
     <th>
       <p>
@@ -61,21 +61,22 @@
     </th>
  </tr>
    </table>
-
- 
+   
 #### [4-Behavioral Cloning](P4-Behavioral-Cloning)
  - **Summary:** Built and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and dropout to generalize the network for driving on multiple tracks.
  - **Keywords:** Deep Learning, Keras, Convolutional Neural Networks
-   <table>
+ <table>
   <tr>
     <th>
-      <p>
-           <a href="https://www.youtube.com/watch?v=s4xuJqEsnW0"><img src="./P4-Behavioral-Cloning/car.jpg" alt="Overview">              </a>
-      </p>
+     <p>
+      <a href="https://www.youtube.com/watch?v=s4xuJqEsnW0&t=2s">
+      <img src="./P4-Behavioral-Cloning/behavioral_cloning.JPG">
+      </a>
+     </p>
     </th>
  </tr>
    </table>
-
+   
 #### [5-Extended Kalman Filter](P5-Extended-Kalman-Filter)
  - **Summary:** Implement the extended Kalman filter in C++. Simulated lidar and radar measurements are used to detect a bicycle that travels around your vehicle. Kalman filter, lidar measurements and radar measurements are used to track the bicycle's position and velocity.
  - **Keywords:** C++, Kalman Filter
