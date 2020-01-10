@@ -87,48 +87,40 @@
 
 #### [6-Kidnapped Vehicle](P6-Kidnapped-Vehicle)
  - **Summary:** Your robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data. In this project you will implement a 2 dimensional particle filter in C++. Your particle filter will be given a map and some initial localization information (analogous to what a GPS would provide). At each time step your filter will also get observation and control data.
-   <table>
+ <table>
   <tr>
     <th>
-     <p>
       <img src="./P6-Kidnapped-Vehicle/kidnapped vehicle.JPG">
-     </p>
     </th>
  </tr>
-   </table>
+ </table>
  
 #### [7-Highway-Driving](P7-Highway-Driving)
 - **Summary:** The goal in this project is to build a path planner that is able to create smooth, safe trajectories for the car to follow. The highway track has other vehicles, all going different speeds, but approximately obeying the 50 MPH speed limit. The car transmits its location, along with its sensor fusion data, which estimates the location of all the vehicles on the same side of the road.
-   <table>
+ <table>
   <tr>
     <th>
-     <p>
       <img src="./P7-Highway-Driving/highway driving.gif">
-     </p>
     </th>
  </tr>
-   </table>
+ </table>
 
 #### [8-PID Control](P8-PID-Controller)
  - **Summary:** Implement a PID controller for keeping the car on track by appropriately adjusting the steering angle.
-    <table>
+  <table>
   <tr>
     <th>
-     <p>
       <img src="./P8-PID-Controller/PID control.JPG">
-     </p>
     </th>
  </tr>
-   </table>
+ </table>
  
 #### [9-Programming-Real-Self-Driving-Car](P9-Programming-Real-Self-Driving-Car)
 - **Summary:** Implement full system to control the car starting from perception untill motion planning and control by making nodes on ROS System and connecting it to Udacity Simulator
    <table>
   <tr>
     <th>
-     <p>
       <img src="./P9-Programming-Real-Self-Driving-Car/real-self-driving-car.png">
-     </p>
     </th>
  </tr>
    </table>
