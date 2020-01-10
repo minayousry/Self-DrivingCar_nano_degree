@@ -1,5 +1,6 @@
 # Self-Driving Car Nanodegree
 
+### Youtube channel: https://www.youtube.com/playlist?list=PLYlklv-A-kFF105TvkSZyx4gmzkFcsoCy
 
 ## Table of Contents
 
